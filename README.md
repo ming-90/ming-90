@@ -4,8 +4,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=ming-90&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2% />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ming-90&repo=github-readme-stats" width=45% />
+</a>
 <a href="s">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ming-90&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&background=20232a" width=49.2% />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ming-90&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&background=20232a" width=45% />
 </a>
   
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">

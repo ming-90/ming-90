@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Welcome&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Welcome!&fontAlign=70)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -7,8 +7,4 @@
 
 <a href="s">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ming-90&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&background=20232a" width=48.8% />
-</a>
-  
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ming-90&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
 </a>
